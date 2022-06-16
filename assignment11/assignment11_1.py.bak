@@ -1,0 +1,46 @@
+#1. Accept number of rows and number of columns from user and display
+#below pattern.
+#Input : iRow = 4 iCol = 3
+#Output:    * * *
+#           * * *
+#           * * *
+#           * * *
+
+n=int(input("Enter a number of rows:"))
+m=input(input("Enter a number of columns:"))
+for i in range(n):
+    for j in range(m):
+        print('*',end=" ")
+    print()
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
